@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ramteja Reddy Boggala</h1>
 <h3 align="center">I am passionate AIML, Game and a Web developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXJwM2lobmlpdHR6cTgycGthYXJ0eHNwbXFqNjZwbDhiZTJ1cXdiZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ramteja24&label=Profile%20views&color=0e75b6&style=flat" alt="ramteja24" /> </p>
 
 - 🔭 I’m currently working on **Health Care Management App a**
@@ -14,8 +13,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ramteja reddy boggala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ramteja reddy boggala" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/ramtejaboggala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ramtejaboggala" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ramteja-reddy-boggala-2145a1236" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ramteja-reddy-boggala-2145a1236" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/@ramtejaboggala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@ramtejaboggala" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
