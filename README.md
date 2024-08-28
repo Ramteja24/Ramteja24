@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXJwM2lobmlpdHR6cTgycGthYXJ0eHNwbXFqNjZwbDhiZTJ1cXdiZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ramteja24&label=Profile%20views&color=0e75b6&style=flat" alt="ramteja24" /> </p>
 
-- 🔭 I’m currently working on **Health Care Management App a**
+- 🔭 I’m currently working on **Health Care Management App **
 
 - 💬 Ask me about **AIML, Gaming**
 
