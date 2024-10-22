@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ramteja24&label=Profile%20views&color=0e75b6&style=flat" alt="ramteja24" /> </p>
 
-- 🔭 I’m currently working on **Health Care Management App a**
+- 🔭 I’m currently working on **Health Care Management App**
 
 - 💬 Ask me about **AIML, Gaming**
 
