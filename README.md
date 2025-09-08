@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <h1 align="center">Hi 👋, I'm Ramteja Reddy Boggala</h1>
-<h3 align="center">🚀 AIML Developer</h3>
+<h3 align="center">Entrepreneur and Software Developer</h3>
 
 
 ---
@@ -16,7 +16,7 @@
 ### 🤝 Connect With Me  
 <p align="left">
 <a href="https://linkedin.com/in/ramteja-reddy-boggala-2145a1236" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="30" style="margin-right: 10px;"/>
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="30" style="margin-right: 30px;"/>
 </a>
 <a href="https://www.youtube.com/@ramtejaboggala" target="_blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="30"/>
