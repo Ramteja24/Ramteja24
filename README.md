@@ -24,7 +24,7 @@
 </a>
 &nbsp;&nbsp;
 <a href="https://ramtejareddy.netlify.app/" target="_blank">
-  <img src="https://cdn-icons-png.flaticon.com/512/1828/1828961.png](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="Portfolio" height="30" width="30"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/1828/1828961.png" alt="Portfolio" height="30" width="30"/>
 </a>
 </p>
 
