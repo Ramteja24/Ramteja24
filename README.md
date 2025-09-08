@@ -2,7 +2,6 @@
 <h1 align="center">Hi 👋, I'm Ramteja Reddy Boggala</h1>
 <h3 align="center">🚀 Passionate AI/ML, Game & Web Developer from India</h3>
 
-<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif">
 
 ---
 
