@@ -14,20 +14,19 @@
 ---
 
 ### Connect With Me  
-<p align="left">
-<a href="https://linkedin.com/in/ramteja-reddy-boggala-2145a1236" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="30"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://www.youtube.com/@ramtejaboggala" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="30"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://ramtejareddy.netlify.app/" target="_blank">
-  <img src="https://img.icons8.com/ios-filled/50/000000/domain.png" alt="Website" height="30" width="30"/>
-</a>
+<p align="center">
+  <a href="https://linkedin.com/in/ramteja-reddy-boggala-2145a1236" target="_blank">
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn" height="30" width="30"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.youtube.com/@ramtejaboggala" target="_blank">
+    <img src="https://cdn.simpleicons.org/youtube/FF0000" alt="YouTube" height="30" width="30"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://ramtejareddy.netlify.app/" target="_blank">
+    <img src="https://cdn.simpleicons.org/googlechrome/4285F4" alt="Website" height="30" width="30"/>
+  </a>
 </p>
-
 
 ---
 
