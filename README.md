@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <h1 align="center">Hi 👋, I'm Ramteja Reddy Boggala</h1>
-<h3 align="center">🚀 Passionate AI/ML, Game & Web Developer from India</h3>
+<h3 align="center">🚀 AIML Developer</h3>
 
 
 ---
@@ -16,10 +16,10 @@
 ### 🤝 Connect With Me  
 <p align="left">
 <a href="https://linkedin.com/in/ramteja-reddy-boggala-2145a1236" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="30"/>
 </a>
 <a href="https://www.youtube.com/@ramtejaboggala" target="_blank">
-  <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white"/>
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="30"/>
 </a>
 </p>
 
@@ -34,8 +34,8 @@
 
 ### 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ramteja24&show_icons=true&theme=tokyonight" alt="stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ramteja24&theme=tokyonight" alt="streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ramteja24&show_icons=true&theme=tokyonight" height="160px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ramteja24&theme=tokyonight" height="160px"/>
 </p>
 
 <p align="center">
