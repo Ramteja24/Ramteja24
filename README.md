@@ -14,27 +14,20 @@
 ---
 
 ### Connect With Me  
-<table>
-  <tr>
-    <td>
-      <a href="https://linkedin.com/in/ramteja-reddy-boggala-2145a1236" target="_blank">
-        <img src="https://img.icons8.com/ios-filled/50/linkedin.png" alt="LinkedIn" width="28" />
-      </a>
-    </td>
-    <td width="10"></td> <!-- spacer -->
-    <td>
-      <a href="https://www.youtube.com/@ramtejaboggala" target="_blank">
-        <img src="https://img.icons8.com/ios-filled/50/youtube-play.png" alt="YouTube" width="28" />
-      </a>
-    </td>
-    <td width="10"></td> <!-- spacer -->
-    <td>
-      <a href="https://ramtejareddy.netlify.app/" target="_blank">
-        <img src="https://img.icons8.com/ios-filled/50/domain.png" alt="Website" width="28" />
-      </a>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://linkedin.com/in/ramteja-reddy-boggala-2145a1236" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/linkedin.png" alt="LinkedIn" width="28"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.youtube.com/@ramtejaboggala" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/youtube-play.png" alt="YouTube" width="28"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://ramtejareddy.netlify.app/" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/domain.png" alt="Website" width="28"/>
+  </a>
+</p>
+
 
 
 ---
