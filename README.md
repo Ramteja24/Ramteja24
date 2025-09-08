@@ -6,27 +6,36 @@
 ---
 
 ### About Me  
-- 🔭 Currently building: **Health Care Management App**  
-- 💡 Ask me about: **AI/ML, Game Development, Web Development**  
+- 🔭 Currently building: **Startup Applications**  
+- 💡 Ask me about: **AI/ML, Software Development, Game Development, Web Development**  
 - 📫 Reach me at: **ramtejaboggala@gmail.com**  
 - ⚡ Fun fact: *Astronauts grow taller in space!*  
 
 ---
 
 ### Connect With Me  
-<p align="center">
-  <a href="https://linkedin.com/in/ramteja-reddy-boggala-2145a1236" target="_blank">
-    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn" height="30" width="30"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.youtube.com/@ramtejaboggala" target="_blank">
-    <img src="https://cdn.simpleicons.org/youtube/FF0000" alt="YouTube" height="30" width="30"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://ramtejareddy.netlify.app/" target="_blank">
-    <img src="https://cdn.simpleicons.org/googlechrome/4285F4" alt="Website" height="30" width="30"/>
-  </a>
-</p>
+<table>
+  <tr>
+    <td>
+      <a href="https://linkedin.com/in/ramteja-reddy-boggala-2145a1236" target="_blank">
+        <img src="https://img.icons8.com/ios-filled/50/linkedin.png" alt="LinkedIn" width="28" />
+      </a>
+    </td>
+    <td width="10"></td> <!-- spacer -->
+    <td>
+      <a href="https://www.youtube.com/@ramtejaboggala" target="_blank">
+        <img src="https://img.icons8.com/ios-filled/50/youtube-play.png" alt="YouTube" width="28" />
+      </a>
+    </td>
+    <td width="10"></td> <!-- spacer -->
+    <td>
+      <a href="https://ramtejareddy.netlify.app/" target="_blank">
+        <img src="https://img.icons8.com/ios-filled/50/domain.png" alt="Website" width="28" />
+      </a>
+    </td>
+  </tr>
+</table>
+
 
 ---
 
