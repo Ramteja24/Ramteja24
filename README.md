@@ -16,12 +16,14 @@
 ### 🤝 Connect With Me  
 <p align="left">
 <a href="https://linkedin.com/in/ramteja-reddy-boggala-2145a1236" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="30" style="margin-right: 30px;"/>
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="30"/>
 </a>
+&nbsp;&nbsp;
 <a href="https://www.youtube.com/@ramtejaboggala" target="_blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="30"/>
 </a>
 </p>
+
 
 
 ---
