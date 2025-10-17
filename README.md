@@ -32,24 +32,6 @@ I’m a passionate **Entrepreneur and Software Developer** who thrives at the in
 
 ---
 
-### 🧩 Languages & Tools  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,react,nodejs,express,html,css,tailwind,mysql,mongodb,firebase,flask,pytorch,tensorflow,unity,aws,postman,git&perline=8" />
-</p>
-
----
-
-### 📊 GitHub Insights  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ramteja24&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="165px" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ramteja24&theme=tokyonight&hide_border=true&background=0d1117" height="165px" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ramteja24&show_icons=true&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="160px" />
-</p>
-
----
 
 ### 🚀 Profile Views  
 <p align="center">
