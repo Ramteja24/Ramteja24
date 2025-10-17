@@ -16,23 +16,25 @@ I am an **Entrepreneur and Software Developer** driven by a deep passion for bui
 ---
 
 ### 🌐 Connect With Me  
+
 <p align="center">
-  <a href="https://linkedin.com/in/ramteja-reddy-boggala-2145a1236" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="LinkedIn"/>
+  <a href="https://linkedin.com/in/ramteja-reddy-boggala-2145a1236" target="_blank" title="LinkedIn">
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="45" height="45"/>
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://www.youtube.com/@ramtejaboggala" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/youtube.svg" height="40" alt="YouTube" style="filter: invert(27%) sepia(77%) saturate(3363%) hue-rotate(357deg) brightness(100%) contrast(100%);"/>
+  <a href="https://www.youtube.com/@ramtejaboggala" target="_blank" title="YouTube">
+    <img src="https://img.icons8.com/color/48/000000/youtube-play.png" alt="YouTube" width="45" height="45"/>
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://ramtejareddy.netlify.app/" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" height="40" alt="Portfolio"/>
+  <a href="https://ramtejareddy.netlify.app/" target="_blank" title="Portfolio">
+    <img src="https://img.icons8.com/fluency/48/domain.png" alt="Portfolio" width="45" height="45"/>
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/ramteja24" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub"/>
+  <a href="https://github.com/ramteja24" target="_blank" title="GitHub">
+    <img src="https://img.icons8.com/glyph-neue/64/ffffff/github.png" alt="GitHub" width="45" height="45" style="background-color:#333;border-radius:50%;padding:5px;"/>
   </a>
 </p>
+
 
 ---
 
