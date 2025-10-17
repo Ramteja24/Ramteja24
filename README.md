@@ -1,5 +1,5 @@
 <!-- Header Section -->
-<h1 align="center">Hi, I'm <span style="color:#58a6ff;">Ramteja Reddy Boggala</span></h1>
+<h1 align="center">👋 Hi, I'm <span style="color:#58a6ff;">Ramteja Reddy Boggala</span></h1>
 <h3 align="center">Entrepreneur | Software Developer | Innovator</h3>
 
 ---
