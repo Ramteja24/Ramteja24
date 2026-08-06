@@ -8,18 +8,15 @@
 
 <br><br>
 
-<a href="mailto:ramtejaboggala@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://ramtejareddy.netlify.app"><img src="https://img.shields.io/badge/Portfolio-58A6FF?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://github.com/ramteja24"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 </div>
 
 <br>
 
-## 🧠 About Me
+##  About Me
 
-I'm an **Entrepreneur and Software Developer** driven by a passion for building impactful, technology-driven solutions — merging AI with clean, scalable engineering to create seamless digital experiences.
+I'm an **AI Engineer and Entrepreneur** driven by a passion for building impactful, technology-driven solutions — merging AI with clean, scalable engineering to create seamless digital experiences.
 
 ```yaml
 currently_building: "AI agents, browser automation, and enterprise AI solutions"
@@ -30,21 +27,10 @@ vision:             "Build AI systems that automate complex workflows and empowe
 
 <br>
 
-## 🛠️ Tech Stack
+
+##  Let's Collaborate
 
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,js,react,nodejs,pytorch,tensorflow,azure,git,github,vscode&theme=dark" />
-
-</div>
-
-<br>
-
-## 🤝 Let's Collaborate
-
-<div align="center">
-
-I'm always open to working on forward-thinking projects that combine **AI, software engineering, and innovation**.
 If you're building something ambitious, let's connect and create it together.
 
 <br><br>
