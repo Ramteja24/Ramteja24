@@ -4,17 +4,17 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+AI-powered%2C+scalable+platforms;Turning+complex+ideas+into+seamless+products;Full-Stack+%2B+AI%2FML+%2B+Cloud+Architecture" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=750&lines=Building+AI-powered%2C+scalable+platforms;Turning+complex+ideas+into+seamless+products;Full-Stack+%2B+AI%2FML+%2B+Cloud+Architecture" />
 
 <br><br>
 
-<a href="https://ramtejareddy.netlify.app"><img src="https://img.shields.io/badge/Portfolio-58A6FF?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://ramtejareddy.netlify.app"><img src="https://img.shields.io/badge/🔗_Visit_Portfolio-58A6FF?style=for-the-badge&logoColor=white" /></a>
 
 </div>
 
 <br>
 
-##  About Me
+## About Me
 
 I'm an **AI Engineer and Entrepreneur** driven by a passion for building impactful, technology-driven solutions — merging AI with clean, scalable engineering to create seamless digital experiences.
 
@@ -27,10 +27,10 @@ vision:             "Build AI systems that automate complex workflows and empowe
 
 <br>
 
-
-##  Let's Collaborate
+## Let's Collaborate
 
 <div align="center">
+
 If you're building something ambitious, let's connect and create it together.
 
 <br><br>
