@@ -22,10 +22,10 @@
 I'm an **Entrepreneur and Software Developer** driven by a passion for building impactful, technology-driven solutions — merging AI with clean, scalable engineering to create seamless digital experiences.
 
 ```yaml
-currently_building: "AI-integrated platforms with real-time data & smart automation"
-focus_areas:        [Artificial Intelligence, Machine Learning, Full-Stack Dev, Cloud]
-exploring_now:       "Microsoft Fabric, Vector Search, RAG pipelines"
-vision:              "Innovate solutions that enhance human potential"
+currently_building: "AI agents, browser automation, and enterprise AI solutions"
+focus_areas:         Artificial Intelligence, Agentic AI, Full-Stack Development, Cloud, Enterprise Automation
+exploring_now:      "Microsoft Fabric, Model Context Protocol (MCP), RAG pipelines, Vector Search, Multi-Agent Systems"
+vision:             "Build AI systems that automate complex workflows and empower people to work smarter."
 ```
 
 <br>
@@ -35,20 +35,6 @@ vision:              "Innovate solutions that enhance human potential"
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=python,js,react,nodejs,pytorch,tensorflow,azure,git,github,vscode&theme=dark" />
-
-</div>
-
-<br>
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ramteja24&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-<img width="49%" src="https://github-readme-streak-stats.demolab.com/?user=ramteja24&theme=tokyonight&hide_border=true" />
-
-<br>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramteja24&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
 </div>
 
