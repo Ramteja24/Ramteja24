@@ -1,29 +1,72 @@
-<!-- Header Section -->
-<h1 align="center">👋 Hi, I'm <span style="color:#58a6ff;">Ramteja Reddy Boggala</span></h1>
-<h3 align="center">Entrepreneur | Software Developer | Innovator</h3>
+<div align="center">
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:58a6ff&height=200&section=header&text=Ramteja%20Reddy%20Boggala&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Entrepreneur%20%C2%B7%20Software%20Developer%20%C2%B7%20AI%2FML%20Engineer&descAlignY=58&descSize=18" />
 
-### 🧠 About Me
-I am an **Entrepreneur and Software Developer** driven by a deep passion for building impactful, technology-driven solutions. My expertise lies in developing **intelligent, scalable, and user-focused applications** that merge creativity with functionality. From crafting AI-powered systems and robust backend architectures to designing engaging startup experiences, I aim to turn complex ideas into seamless digital realities.
+<br>
 
-- 🔭 **Currently Building:** AI-integrated, startup-grade platforms featuring real-time communication and data-driven decision-making.  
-- 💡 **Core Skills:** Artificial Intelligence, Machine Learning, Full-Stack Development, Game Development, and Cloud Integration.  
-- 🎯 **Vision:** To innovate solutions that enhance human potential and simplify everyday interactions through smart automation.  
-- 📫 **Contact Me:** [ramtejaboggala@gmail.com](mailto:ramtejaboggala@gmail.com)  
-- ⚡ **Fun Fact:** I believe innovation is not just about code — it’s about creating experiences that inspire progress.  
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+AI-powered%2C+scalable+platforms;Turning+complex+ideas+into+seamless+products;Full-Stack+%2B+AI%2FML+%2B+Cloud+Architecture" />
 
----
+<br><br>
 
+<a href="mailto:ramtejaboggala@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://ramtejareddy.netlify.app"><img src="https://img.shields.io/badge/Portfolio-58A6FF?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/ramteja24"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
+</div>
 
-### 🚀 Profile Views  
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ramteja24&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views" />
-</p>
+<br>
 
----
+## 🧠 About Me
 
-### 💬 Let’s Collaborate  
-I’m always open to collaborating on forward-thinking projects that combine **AI, software engineering, and innovation**.  
-Whether it’s developing scalable systems, building real-time applications, or creating intelligent automation tools — let’s connect and make something extraordinary.
+I'm an **Entrepreneur and Software Developer** driven by a passion for building impactful, technology-driven solutions — merging AI with clean, scalable engineering to create seamless digital experiences.
+
+```yaml
+currently_building: "AI-integrated platforms with real-time data & smart automation"
+focus_areas:        [Artificial Intelligence, Machine Learning, Full-Stack Dev, Cloud]
+exploring_now:       "Microsoft Fabric, Vector Search, RAG pipelines"
+vision:              "Innovate solutions that enhance human potential"
+```
+
+<br>
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,js,react,nodejs,pytorch,tensorflow,azure,git,github,vscode&theme=dark" />
+
+</div>
+
+<br>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ramteja24&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+<img width="49%" src="https://github-readme-streak-stats.demolab.com/?user=ramteja24&theme=tokyonight&hide_border=true" />
+
+<br>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramteja24&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+
+</div>
+
+<br>
+
+## 🤝 Let's Collaborate
+
+<div align="center">
+
+I'm always open to working on forward-thinking projects that combine **AI, software engineering, and innovation**.
+If you're building something ambitious, let's connect and create it together.
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=ramteja24&label=Profile%20Views&color=58a6ff&style=for-the-badge" />
+
+<br><br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,100:0f2027&height=100&section=footer" />
+
+</div>
