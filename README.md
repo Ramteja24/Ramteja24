@@ -1,6 +1,3 @@
-<div align="center">
-
-
 ### Let's Collaborate
 
 If you're building something ambitious, let's connect and create it together.
